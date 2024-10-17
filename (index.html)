@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anas AI Wala - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Anas AI Wala</h1>
+        <img src="your-profile-pic.png" alt="Profile Picture" class="profile-pic">
+        <p>Welcome to my portfolio! I'm an aspiring AI enthusiast and freelancer.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm an 11-year-old elementary school student passionate about AI. I aim to educate every child in Pakistan about AI.</p>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Canva</li>
+            <li>Podcasting</li>
+            <li>Video Editing</li>
+            <li>Social Media Management</li>
+        </ul>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Here are some of the projects I've worked on:</p>
+        <ul>
+            <li>AI Education Initiative</li>
+            <li>Freelance Graphic Design</li>
+            <li>Social Media Campaigns</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>If you'd like to get in touch, please reach out via email at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Anas AI Wala. All rights reserved.</p>
+    </footer>
+</body>
+</html>
